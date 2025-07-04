@@ -1,0 +1,8 @@
+streamlit
+requests
+python-dotenv
+pandas
+plotly
+numpy
+reportlab
+streamlit-option-menu
