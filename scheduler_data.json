@@ -1,0 +1,23 @@
+{
+    "subjects": [
+        "biology"
+    ],
+    "timetable": {
+        "Monday": [
+            {
+                "start": "01:29",
+                "end": "02:29",
+                "subject": "biology"
+            }
+        ]
+    },
+    "homework": [
+        {
+            "subject": "biology",
+            "task": "DRAW A GRASSHOPPER",
+            "due_date": "2025-07-03",
+            "done": false
+        }
+    ],
+    "mode": "school"
+}
